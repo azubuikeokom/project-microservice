@@ -1,0 +1,4 @@
+NAME                                READY   STATUS    RESTARTS   AGE
+ml-housing-price-84b9d86cf8-292jm   1/1     Running   0          9m37s
+Forwarding from 0.0.0.0:8000 -> 80
+
